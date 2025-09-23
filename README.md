@@ -73,3 +73,8 @@ In business contexts where false positives are costly (e.g., targeting non-high-
 
 Total orders and average order value were both meaningful predictors of customer value.
 
+## Contact Information:
+Email: teerthgupta19@gmail.com
+LinkedIn:[https://www.linkedin.com/in/teerth-gupta-52a248243/]
+Name-Teerth Gupta
+
