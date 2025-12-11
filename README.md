@@ -75,6 +75,9 @@ Total orders and average order value were both meaningful predictors of customer
 
 ## Author
 **Teerth Gupta**
+Master’s in Statistics and Data Science, Uppsala University  
+Sweden | Data Analytics | Power BI | Machine Learning  
+
 **Email:** teerthgupta19@gmail.com
 **GitHub:** https://github.com/teerthgupta
 
